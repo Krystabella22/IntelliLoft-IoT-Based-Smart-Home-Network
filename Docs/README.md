@@ -17,8 +17,6 @@ This project is a **Smart Home IoT simulation** built in **Cisco Packet Tracer**
 ---
 
 
----
-
 ## Getting Started
 
 1. Install **Cisco Packet Tracer** (v8.x recommended).
